@@ -34,7 +34,7 @@
       <router-view/>
     </section>
     <footer class="footer">
-      <p class="has-text-centered">Copyright (c) 2021</p>
+      <p class="has-text-centered">Developed by Yonis Ismail</p>
     </footer>
   </div>
 </template>
